@@ -4,7 +4,7 @@ from influence_analysis import analyze
 import nltk
 import nltk.classify.util
 from nltk.classify import NaiveBayesClassifier
-from nltk.corpus import training_set
+from nltk.corpus import movie_reviews
 from nltk.tokenize import word_tokenize
 
 
